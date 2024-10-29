@@ -2,6 +2,7 @@
 - 👀 I’m interested in Webdevelopment, Devops 
 - 🌱 I’m currently learning Go Lang
 - 💞️ I’m looking to collaborate on backend development
+- 📫 How to reach me shahibhuwan265@gmail.com
 - 📫 How to reach me https://portfolio-bhuwan.vercel.app/
 - ⚡ Fun fact: I am Batman.
 
